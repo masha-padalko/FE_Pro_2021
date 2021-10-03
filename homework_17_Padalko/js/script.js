@@ -26,7 +26,7 @@ Array.prototype.heroesRender = function(folder) {
 			return `<tr>
 				<td align="center">${hero.name}</td>
 				<td align="center">
-					<img src="images/${folder}/${(hero.name).replaceAll(' ', '')}.svg" width="30" height="30">
+					<img src="images/${folder}/${(hero.name).replaceAll(' ', '').toLowerCase()}.svg" width="30" height="30">
 				</td>
 			</tr>`;
 		})
