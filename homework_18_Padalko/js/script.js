@@ -84,8 +84,8 @@ function renderTable(objName, category) {
 	})
 }
 document.write(`<table><thead><tr><td>Image</td><td>Name</td><td>Price</td></tr></thead></tbody>`);
-renderTable(devicesProducts, 'devices');
 renderTable(kitchenProducts, 'kitchen');
+renderTable(devicesProducts, 'devices');
 renderTable(cosmeticsProducts, 'cosmetics');
 document.write(`</tbody></table>`);
 
