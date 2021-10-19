@@ -1,14 +1,14 @@
-let shape = document.querySelector("#shape");
-let colorPicker = document.querySelector("#colorPicker");
-let selectShape = document.querySelector("#selectShape");
+const SHAPE = document.querySelector("#shape");
+const COLOR = document.querySelector("#colorPicker");
+const SELECT = document.querySelector("#selectShape");
 
-shape.style.background = colorPicker.value;
+SHAPE.style.background = COLOR.value;
 
-selectShape.addEventListener("change", function(){
-	shape.className = '';
-	shape.classList.add(this.value);
+SELECT.addEventListener('change', () => {
+	SHAPE.className = '';
+	SHAPE.classList.add(SELECT.value);
 });
 
-colorPicker.addEventListener("change", function(){
-	shape.style.background = colorPicker.value;
+COLOR.addEventListener('input', () => {
+	SHAPE.style.background = COLOR.value;
 });
