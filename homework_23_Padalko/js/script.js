@@ -1,6 +1,6 @@
 childrenArray = [];
 
-const renderUsers = obj => {
+const renderChildren = obj => {
 	for(let key in obj){
 		if(Array.isArray(obj[key])){
 			let data = obj[key]; //["cat","dog","lion"]
@@ -22,7 +22,7 @@ const getFile = (file, someFunc) => {
 	})
 }
 
-getFile(`fileA.json`,renderUsers);
-getFile(`fileB.json`, renderUsers);
+getFile(`fileA.json`,childrenArray);
+getFile(`fileB.json`, childrenArray);
 
 console.log(childrenArray);
