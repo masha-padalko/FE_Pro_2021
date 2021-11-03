@@ -1,0 +1,545 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"componn",
+				"component-content"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"stl",
+				"style"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"F",
+				"Fourth"
+			],
+			[
+				"col",
+				"col-md-4"
+			],
+			[
+				"back",
+				"background-repeat\tproperty"
+			],
+			[
+				"backg",
+				"background-repeat\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"error",
+				"error-msg"
+			],
+			[
+				"co",
+				"column"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"mari",
+				"margin-bottom"
+			],
+			[
+				"new",
+				"newsListing-list"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"media",
+				"media-query"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"au",
+				"auto"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"component",
+				"component-content"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"logout",
+				"logout-form"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"se",
+				"searchIndex"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"ul",
+				"clip-rule"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"text-tr",
+				"text-transform"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"nor",
+				"no-repeat"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"bo",
+				"box-sizing"
+			],
+			[
+				"get",
+				"getElementsByClassName"
+			],
+			[
+				"base",
+				"baselayers"
+			],
+			[
+				"add",
+				"addPolyLayer"
+			],
+			[
+				"in",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"package control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Add Channel"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mpadalko/Documents/FE_Pro_2021/homework_23_Padalko/js/script.js",
+		"/Users/mpadalko/Documents/FE_Pro_2021/homework_23_Padalko/index.html",
+		"/Users/mpadalko/Downloads/LOGICOR-effects/homepage.html",
+		"/Users/mpadalko/Downloads/LOGICOR-effects/js/parallax.js",
+		"/Users/mpadalko/Downloads/LOGICOR-effects/js/homepage.js",
+		"/Users/mpadalko/Downloads/4.0/script.js",
+		"/Users/mpadalko/Downloads/Homework_2_Dvurechenskyi/pages/page2_Fav.html",
+		"/Users/mpadalko/Downloads/Homework_2_Dvurechenskyi/pages/page1_Hoby.html",
+		"/Users/mpadalko/Downloads/dropdown_practise/styles.css",
+		"/Users/mpadalko/Downloads/®¢ ï ¯ ¯ª /stylle.css",
+		"/Users/mpadalko/Downloads/Box Model Practise/lesson_6_Lapenko/styles.css",
+		"/Users/mpadalko/Downloads/Box Model Practise/lesson_6_Lapenko/index.html",
+		"/Users/mpadalko/Downloads/Lesson_2_Practice_Familiya/gallery.html",
+		"/Users/mpadalko/Documents/FE_Basic_19.11.2020/Lesson 2 Practice/Archive/index.html",
+		"/Users/mpadalko/Downloads/css practice/index.html",
+		"/Users/mpadalko/Downloads/index.html",
+		"/Users/mpadalko/Downloads/css practice/style.css",
+		"/Users/mpadalko/Documents/gulp-scss/css/styles.css",
+		"/Users/mpadalko/Downloads/adaptivelesson/css/style.css",
+		"/Users/mpadalko/Downloads/adaptive/index.html",
+		"/Users/mpadalko/Desktop/adaptive/css/style.css",
+		"/Users/mpadalko/Desktop/adaptive/index.html",
+		"/Users/mpadalko/Downloads/Homework_4_Butenko/styles.css",
+		"/Users/mpadalko/Downloads/homework_4_familiya/homework_4_Mirzoev(chapter2)/index.html",
+		"/Users/mpadalko/Downloads/homework_4_familiya/homework_4_Mirzoev(chapter1)/index.html",
+		"/Users/mpadalko/Downloads/homework_4_familiya/homework_4_Mirzoev(chapter1)/styles.css",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/content/brands/duschdas/de/de/home.html",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/composites/footer/index.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/composites/header/_partials/_sticky.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/composites/header/_partials/_navigation.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/composites/filteredArticles/index.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/pageLayout/blank/contactUs/_index.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/components/carousel/hero/_index.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/components/listing/listingAsCarousel/_index.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/components/listingButton/_config.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/components/searchResults/_showMore/_index.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/components/searchResults/_articles/_index.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/css/composites/footer/index.css",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/components/listing/productDefaultView/_index.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/composites/header/_config.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/components/productVariantList/index.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/components/productVariantList/_config.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/core/_config.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/composites/footer/_config.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/composites/header/_partials/_main-holder.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/pageLayout/blank/signUp/_index.scss",
+		"/Users/mpadalko/Documents/index.html",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/components/tabs/whoWeAre/_index.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/pageLayout/product/productDetail/_index.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/components/shopalyst/index.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/commons/_config-load-more.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/components/listingButton/index.lazyload.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/components/tabs/productDetails/_index.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/composites/header/index.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/components/listing/articleList/_index.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/composites/header/_partials/_search.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/composites/productCarousel/_listing/_config.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/components/richText/hyperlinkStyles/buttonPrimary/_index.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/commons/_config-carousel.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/commons/_config-buttons.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/composites/recipeFinder/recipeFinderWithCarousel/_config.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/components/box/darkerBackground/_config.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/components/listing/articleList/_utils.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/components/box/transparentBackground/_config.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/components/listing/articleList/_config.scss",
+		"/Users/mpadalko/Documents/work/awdukraine-duschdas-de/etc/designs/zg/duschdas/desktop/sass/composites/relatedArticles/_listing/_index.scss",
+		"/Users/mpadalko/Documents/FE_Basic_19.11.2020/gulp_sass/gulpfile.js",
+		"/Users/mpadalko/Downloads/lesson_bootstrap/package.json",
+		"/Users/mpadalko/Downloads/user-solid.svg",
+		"/Users/mpadalko/Downloads/sooner-free-lite/index.html",
+		"/Users/mpadalko/Downloads/markup02/css/style.css",
+		"/Users/mpadalko/Documents/work/albertobalsam.com/etc/designs/zg/alberto/desktop/sass/components/ratingsAndReviews/kritique/summary/_index.scss",
+		"/Users/mpadalko/Documents/work/albertobalsam.com/etc/designs/zg/alberto/desktop/sass/composites/productLanding/index.scss",
+		"/Users/mpadalko/Documents/work/albertobalsam.com/etc/designs/zg/alberto/desktop/sass/core/_config.scss",
+		"/Users/mpadalko/Documents/work/albertobalsam.com/etc/designs/zg/alberto/desktop/sass/pageLayout/blank/contactUs/_index.scss",
+		"/Users/mpadalko/Documents/work/albertobalsam.com/etc/designs/zg/alberto/desktop/sass/components/listing/index.scss",
+		"/Users/mpadalko/Documents/work/albertobalsam.com/etc/designs/zg/alberto/desktop/sass/pageLayout/product/productDetail/_index.scss",
+		"/Users/mpadalko/Documents/work/albertobalsam.com/etc/designs/zg/alberto/desktop/sass/components/searchResults/_articles/_index.scss",
+		"/Users/mpadalko/Documents/work/albertobalsam.com/etc/designs/zg/alberto/desktop/sass/components/box/productShare/_index.scss",
+		"/Users/mpadalko/Documents/work/albertobalsam.com/etc/designs/zg/alberto/desktop/sass/components/productVariantList/index.scss",
+		"/Users/mpadalko/Documents/work/albertobalsam.com/etc/designs/zg/alberto/desktop/sass/composites/quickView/_productVariantList/_index.scss",
+		"/Users/mpadalko/Documents/work/albertobalsam.com/etc/designs/zg/alberto/desktop/sass/components/richText/articles/_index.scss",
+		"/Users/mpadalko/Documents/FE Basic 19.11.2020/Homework_2_Suietskyi/news.html",
+		"/Users/mpadalko/Documents/FE Basic 19.11.2020/Homework_2_Suietskyi/index.html",
+		"/Users/mpadalko/Documents/FE Basic 19.11.2020/Homework_2_Suietskyi/gallery.html",
+		"/Users/mpadalko/Documents/work/albertobalsam.com/etc/designs/zg/alberto/desktop/sass/components/searchResults/index.scss",
+		"/Users/mpadalko/Documents/work/albertobalsam.com/content/brands/alberto/tv/en/home.html",
+		"/Users/mpadalko/Documents/work/albertobalsam.com/etc/designs/zg/alberto/theme.json",
+		"/Users/mpadalko/Documents/work/albertobalsam.com/etc/designs/zg/alberto/desktop/gulp/tasks/increment.js",
+		"/Users/mpadalko/Documents/work/albertobalsam.com/etc/designs/zg/starter-kit/theme.json",
+		"/Users/mpadalko/Documents/work/albertobalsam.com/etc/designs/zg/alberto/desktop/sass/composites/productLanding/_config.scss",
+		"/Users/mpadalko/Documents/work/albertobalsam.com/etc/designs/zg/alberto/desktop/sass/utils/author.scss",
+		"/Users/mpadalko/Documents/work/albertobalsam.com/etc/designs/zg/alberto/desktop/sass/components/box/productShare/_config.scss",
+		"/Users/mpadalko/Documents/work/albertobalsam.com/etc/designs/zg/alberto/desktop/sass/components/ratingsAndReviews/kritique/summary/_config.scss",
+		"/Users/mpadalko/Documents/work/albertobalsam.com/etc/designs/zg/alberto/desktop/sass/components/ratingsAndReviews/kritique/readPanel/_config.scss",
+		"/Users/mpadalko/Documents/work/albertobalsam.com/etc/designs/zg/alberto/desktop/sass/components/searchTabNavigation/index.scss",
+		"/Users/mpadalko/Documents/work/albertobalsam.com/etc/designs/zg/alberto/desktop/sass/components/carousel/hero/_index.scss",
+		"/Users/mpadalko/Documents/work/albertobalsam.com/etc/designs/zg/starter-kit/desktop/sass/components/carousel/hero/_index.scss",
+		"/Users/mpadalko/Downloads/Homework_2/index.html",
+		"/Users/mpadalko/Documents/FE Basic 19.11.2020/Lesson 2 Practice/gallery.html",
+		"/Users/mpadalko/Documents/FE Basic 19.11.2020/2/gallery.html",
+		"/Users/mpadalko/Documents/FE Basic 19.11.2020/Lesson 2 Practice/news.html",
+		"/Users/mpadalko/Documents/FE Basic 19.11.2020/Lesson 2 Practice/index.html",
+		"/Users/mpadalko/Documents/FE Basic 19.11.2020/Homework1/ homework.html",
+		"/Users/mpadalko/Documents/HTML Basic/anchor.html",
+		"/Users/mpadalko/Documents/FE Basic 19.11.2020/2/structure.html",
+		"/Users/mpadalko/Documents/FE Basic 19.11.2020/2/website",
+		"/Users/mpadalko/Documents/work/radox/etc/designs/zg/radox/desktop/sass/components/searchBoxWithSuggestions/index.lazyload.scss",
+		"/Users/mpadalko/Documents/work/albertobalsam.co.tv/etc/designs/zg/alberto/desktop/sass/components/searchBoxWithSuggestions/index.lazyload.scss",
+		"/Users/mpadalko/Documents/work/albertobalsam.co.tv/etc/designs/zg/alberto/desktop/sass/components/searchBoxWithSuggestions/_search-overlay.scss",
+		"/Users/mpadalko/Documents/work/radox/etc/designs/zg/radox/desktop/sass/components/searchBoxWithSuggestions/_search-overlay.scss",
+		"/Users/mpadalko/Documents/work/radox/etc/designs/zg/radox/desktop/sass/components/searchBoxWithSuggestions/_search-box-advanced-suggestions.scss",
+		"/Users/mpadalko/Documents/work/albertobalsam.co.tv/etc/designs/zg/alberto/desktop/sass/components/searchBoxWithSuggestions/_search-box-advanced-suggestions.scss",
+		"/Users/mpadalko/Documents/work/albertobalsam.co.tv/etc/designs/zg/alberto/desktop/sass/components/searchBoxWithSuggestions/_config.scss",
+		"/Users/mpadalko/Documents/work/radox/etc/designs/zg/radox/desktop/sass/components/searchBoxWithSuggestions/_config.scss",
+		"/Users/mpadalko/Documents/work/radox/etc/designs/zg/radox/desktop/sass/components/searchBoxWithSuggestions/_config-search-overlay.scss",
+		"/Users/mpadalko/Documents/work/radox/etc/designs/zg/radox/desktop/sass/components/searchBoxWithSuggestions/_config-search-box-advanced-suggestions.scss",
+		"/Users/mpadalko/Documents/work/albertobalsam.co.tv/etc/designs/zg/alberto/desktop/sass/components/searchBoxWithSuggestions/_config-search-box-advanced-suggestions.scss",
+		"/Users/mpadalko/Documents/work/albertobalsam.co.tv/etc/designs/zg/alberto/desktop/sass/components/searchBoxWithSuggestions/_config-search-overlay.scss",
+		"/Users/mpadalko/Documents/suren/suren/css/styles.css",
+		"/Users/mpadalko/Documents/suren/suren/js/main.js",
+		"/Users/mpadalko/Documents/suren/suren/index.html",
+		"/Users/mpadalko/Documents/suren/jazz/css/styles.css",
+		"/Users/mpadalko/Documents/suren/website/js/main.js",
+		"/Users/mpadalko/Documents/FE Basic 27.10/markup/css/style.css",
+		"/Users/mpadalko/Documents/FE Basic 27.10/markup/index.html",
+		"/Users/mpadalko/Documents/suren/website/landing.html",
+		"/Users/mpadalko/Documents/FE Basic 27.10/markup 2/index.html"
+	],
+	"find":
+	{
+		"height": 53.0
+	},
+	"find_in_files":
+	{
+		"height": 247.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 45.0
+	},
+	"input":
+	{
+		"height": 90.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "request.sublime-project",
+	"replace":
+	{
+		"height": 86.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"globa",
+				"etc/designs/zg/the-vegetarian-butcher-nl/desktop/sass/structure/_global.scss"
+			],
+			[
+				"",
+				"etc/designs/zg/colmans/desktop/sass/structure/_global.scss"
+			],
+			[
+				"global.c",
+				"etc/designs/zg/colmans/desktop/sass/structure/_global.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
