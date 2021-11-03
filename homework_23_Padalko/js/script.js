@@ -4,7 +4,7 @@ const renderChildren = obj => {
 	for(let key in obj){
 		if(Array.isArray(obj[key])){
 			let data = obj[key]; 
-			childrenArray.push(data);
+			childrenArray.push(...data);
 		}
 	}
 }
@@ -22,7 +22,7 @@ const getFile = (file, someFunc) => {
 	})
 }
 
-getFile(`fileA.json`,childrenArray);
-getFile(`fileB.json`, childrenArray);
+getFile(`fileA.json`,renderChildren);
+getFile(`fileB.json`, renderChildren);
 
 console.log(childrenArray);
