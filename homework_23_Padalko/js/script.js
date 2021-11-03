@@ -3,7 +3,7 @@ childrenArray = [];
 const renderChildren = obj => {
 	for(let key in obj){
 		if(Array.isArray(obj[key])){
-			let data = obj[key]; //["cat","dog","lion"]
+			let data = obj[key]; 
 			childrenArray.push(data);
 		}
 	}
